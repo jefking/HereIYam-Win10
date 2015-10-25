@@ -21,7 +21,7 @@
     <Resource Language="x-generate" />
   </Resources>
   <Applications>
-    <Application 
+    <Application
       Id="App"
       StartPage="http://octopolous.com">
       <uap:ApplicationContentUriRules>
